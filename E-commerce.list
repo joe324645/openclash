@@ -1,0 +1,15 @@
+# 内容：E-commerce
+# 域名关键字匹配
+DOMAIN-KEYWORD,adspower
+DOMAIN-KEYWORD,piaproxy
+DOMAIN-KEYWORD,proxy302
+DOMAIN-KEYWORD,bitbrowser
+DOMAIN-KEYWORD,aliexpress
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,adspower.net
+DOMAIN-SUFFIX,adspower.com
+DOMAIN-SUFFIX,piaproxy.com
+DOMAIN-SUFFIX,proxy302.com
+DOMAIN-SUFFIX,bitbrowser.cn
+DOMAIN-SUFFIX,aliexpress.com
